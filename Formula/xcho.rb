@@ -4,7 +4,7 @@ class Xcho < Formula
   desc "Test Homebrew Formula"
   homepage "https://github.com/jmowla/xcho"
   url "https://github.com/jmowla/xcho/archive/refs/tags/0.1.0.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "34d066bcc7270d74e4fd021a13ec69d6fabef5c6c529c3dde3e9aa8f23d41458"
 
   depends_on "python@3.11"
 
